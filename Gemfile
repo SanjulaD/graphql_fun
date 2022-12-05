@@ -46,5 +46,6 @@ group :development do
   gem "spring"
   gem "graphiql-rails"
   gem "faker"
+  gem "graphql"
 end
 
